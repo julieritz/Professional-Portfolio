@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Professional-Portfolio/static/css/main.d0366851.chunk.css",
+    "main.js": "/Professional-Portfolio/static/js/main.e77f4fba.chunk.js",
+    "main.js.map": "/Professional-Portfolio/static/js/main.e77f4fba.chunk.js.map",
+    "runtime-main.js": "/Professional-Portfolio/static/js/runtime-main.303b969e.js",
+    "runtime-main.js.map": "/Professional-Portfolio/static/js/runtime-main.303b969e.js.map",
+    "static/js/2.d08c3573.chunk.js": "/Professional-Portfolio/static/js/2.d08c3573.chunk.js",
+    "static/js/2.d08c3573.chunk.js.map": "/Professional-Portfolio/static/js/2.d08c3573.chunk.js.map",
+    "index.html": "/Professional-Portfolio/index.html",
+    "precache-manifest.0ac54f2e97905d40e86985f331e624b2.js": "/Professional-Portfolio/precache-manifest.0ac54f2e97905d40e86985f331e624b2.js",
+    "service-worker.js": "/Professional-Portfolio/service-worker.js",
+    "static/css/main.d0366851.chunk.css.map": "/Professional-Portfolio/static/css/main.d0366851.chunk.css.map",
+    "static/js/2.d08c3573.chunk.js.LICENSE.txt": "/Professional-Portfolio/static/js/2.d08c3573.chunk.js.LICENSE.txt",
+    "static/media/Budget-Tracker.png": "/Professional-Portfolio/static/media/Budget-Tracker.9bb831c4.png",
+    "static/media/Code-Quiz.png": "/Professional-Portfolio/static/media/Code-Quiz.830a845a.png",
+    "static/media/Date-Night-Helper.png": "/Professional-Portfolio/static/media/Date-Night-Helper.2adaa64c.png",
+    "static/media/Eat-Da-Burger.png": "/Professional-Portfolio/static/media/Eat-Da-Burger.707c454f.png",
+    "static/media/Employee-Directory.png": "/Professional-Portfolio/static/media/Employee-Directory.dda419fa.png",
+    "static/media/Employee-Tracker.png": "/Professional-Portfolio/static/media/Employee-Tracker.2444ee1a.png",
+    "static/media/Fitness-Tracker.png": "/Professional-Portfolio/static/media/Fitness-Tracker.7a68e549.png",
+    "static/media/Note-Taker.png": "/Professional-Portfolio/static/media/Note-Taker.858fb26c.png",
+    "static/media/Represent-Me.png": "/Professional-Portfolio/static/media/Represent-Me.4effbd72.png",
+    "static/media/Template-Engine.png": "/Professional-Portfolio/static/media/Template-Engine.51f91e81.png",
+    "static/media/Tiny-Learn.png": "/Professional-Portfolio/static/media/Tiny-Learn.b468a2dc.png",
+    "static/media/Work-Day-Scheduler.png": "/Professional-Portfolio/static/media/Work-Day-Scheduler.8e14c639.png",
+    "static/media/circle-cropped.png": "/Professional-Portfolio/static/media/circle-cropped.daf37408.png",
+    "static/media/flowers-left.jpg": "/Professional-Portfolio/static/media/flowers-left.058035fa.jpg",
+    "static/media/flowers-right.jpg": "/Professional-Portfolio/static/media/flowers-right.4618a560.jpg",
+    "static/media/long-flowers.jpg": "/Professional-Portfolio/static/media/long-flowers.c9dfc8ed.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.303b969e.js",
+    "static/js/2.d08c3573.chunk.js",
+    "static/css/main.d0366851.chunk.css",
+    "static/js/main.e77f4fba.chunk.js"
+  ]
+}
