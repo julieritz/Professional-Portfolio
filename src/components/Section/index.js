@@ -19,8 +19,9 @@ function Section() {
                         <br /><br />
                             I'm in a unique position with my background as a marketer and coder 
                             because I can't just technically build beautiful websites, 
-                            but I can deisgn creative, write copy and create the entire user experience from start to finish.
+                            I also deisgn creative, write copy and create the entire user experience from start to finish.
                             Need help writing or launching a blog? I've got you. Looking for a refresh of your creative materials? Sign me up. Need help with your analytics or lead generation? I'm just as tactical as I am artistic.
+                            I've helped companies drive revenue growth through customer aquisition by implementing new campaigns such as SEM/PPC, retargeting and SEO.
                         <br /><br />    
                             I'm happy to work with you in any capacity of my skills.
                             I can't wait to build customer-centric websites that are as beautiful as they are useful, and I look forward to what we can do together.
