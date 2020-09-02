@@ -1,0 +1,32 @@
+#about-me {
+    border: 1px solid #ff6060;
+    background-color: #ffffff3a;
+    padding: 7%;
+}
+
+#about-me-container {
+    margin-top: 200px;
+    margin-bottom: 100px;
+    padding-top: 30px;
+}
+
+.about-me-desc {
+    color: rgb(82, 82, 82);
+}
+
+.profilepic {
+    border: 4px solid #ff6060;
+    border-radius: 50%;
+
+    animation: bounce;
+    animation-duration: 3s;
+}
+
+@media only screen and (min-width: 769px) {
+    #about-me-container {
+        margin-top: 1px;
+        padding-top: 200px;
+        width: 65%;
+        padding-left: 19%;
+    } 
+}

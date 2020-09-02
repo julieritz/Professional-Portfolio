@@ -1,0 +1,52 @@
+.title {
+    margin-top: 100px;
+}
+
+.name {
+    color: #ff6060 !important;
+    font-family: 'Great Vibes', cursive !important;
+}
+
+.subtitle {
+    margin: 0px;
+    color: white !important;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+@media only screen and (max-width: 390px) {
+#my-name {
+    font-size: 36px;
+}
+
+.subtitle {
+    font-size: 12px;
+}
+} 
+
+@media only screen and (min-width: 460px) {
+.subtitle {
+    font-weight: 100;
+}
+}
+
+@media only screen and (min-width: 560px) {
+#title-container {
+    padding-left: 30%;
+}   
+}
+
+@media only screen and (min-width: 769px) {
+#title-container {
+    padding-top: 100px;
+    padding-left: 50%;
+    width: 50%;
+}   
+}
+
+@media only screen and (min-width: 960px) {
+.subtitle {
+    font-size: 18px;
+}
+}
