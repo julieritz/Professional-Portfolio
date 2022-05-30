@@ -14,7 +14,7 @@ function Skills(props) {
             <Header padding={70} title="Skills" />
             < hr />
             <div className="uk-text-center">
-                <a href="https://julieritz.github.io/Portfolio/assets/images/Resume-2020.pdf" target="_blank" className="btn-link">
+                <a href="https://julieritz.github.io/Portfolio/assets/images/Resume-2022.pdf" target="_blank" className="btn-link">
                     <button className="uk-button uk-button-default website-btn">Click Here to View My Resume</button>
                 </a>
             </div>

@@ -1,6 +1,6 @@
 # Portfolio
 ## Link
-placeholder
+https://julieritz.github.io/Professional-Portfolio/#/portfolio
 ## About Me
 Thank you for visiting my portfolio!
 

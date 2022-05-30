@@ -13,6 +13,28 @@ function Portfolio() {
     return (
         <Background image={imageURL} >
             <Nav />
+            <Header padding={70} title="Writing & Social Media" />
+            <hr />
+            <CardContainer>
+                <div className="uk-child-width-1-3@m uk-grid-match" uk-grid="true" id="portfolio-section">
+                    {
+                        writing.map((el, index) => {
+                            return <WritingCard
+                                title={el.title}
+                                about={el.about}
+                                siteURL={el.siteURL}
+                                blogURL={el.blogURL}
+                                instagram={el.instagram}
+                                facebook={el.facebook}
+                                twitter={el.twitter}
+                                youtube={el.youtube}
+                                pinterest={el.pinterest}
+                                key={index}
+                            />
+                        })
+                    }
+                </div>
+            </CardContainer>
             <Header padding={70} title="Websites & Applications" />
             <hr />
             <CardContainer>
@@ -36,28 +58,6 @@ function Portfolio() {
                     <button className="uk-button uk-button-default website-btn">Click Here to See All of My Projects</button>
                 </a>
             </div>
-            <Header padding={70} title="Writing & Social Media" />
-            <hr />
-            <CardContainer>
-                <div className="uk-child-width-1-3@m uk-grid-match" uk-grid="true" id="portfolio-section">
-                    {
-                        writing.map((el, index) => {
-                            return <WritingCard
-                                title={el.title}
-                                about={el.about}
-                                siteURL={el.siteURL}
-                                blogURL={el.blogURL}
-                                instagram={el.instagram}
-                                facebook={el.facebook}
-                                twitter={el.twitter}
-                                youtube={el.youtube}
-                                pinterest={el.pinterest}
-                                key={index}
-                            />
-                        })
-                    }
-                </div>
-            </CardContainer>
         </Background>
     )
 };

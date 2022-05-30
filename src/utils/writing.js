@@ -10,6 +10,18 @@ function WritingCard(title, about, siteURL, blogURL, instagram, facebook, twitte
     this.pinterest = pinterest;
 };
 
+const fairwayCard = new WritingCard(
+    "Fairway Independent Mortgage Corporation",
+    "Click blog button for email journey example. All social media by me from September 2020 - present.",
+    "https://fairwayhometeamnw.com/",
+    "",
+    "https://www.instagram.com/fairwayhometeamnw/",
+    "https://www.facebook.com/fairwayhometeamnw/",
+    "",
+    "hhttps://www.youtube.com/channel/UClIhNni4apvBJKTBmciVjagg",
+    ""
+);
+
 const honeyRosesCard = new WritingCard(
     "Honey & Roses Coffee Co.",
     "All blogs & articles on website by me. Responsible for copywriting and editing main website product bios.",
@@ -46,6 +58,6 @@ const capaCard = new WritingCard(
     "https://www.pinterest.com/capastudyabroad/"
 );
 
-let writing = [honeyRosesCard, rideDucksCard, capaCard];
+let writing = [fairwayCard, honeyRosesCard, rideDucksCard, capaCard];
 
 export default writing;
