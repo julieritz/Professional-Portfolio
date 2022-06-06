@@ -35,6 +35,40 @@ function Portfolio() {
                     }
                 </div>
             </CardContainer>
+            <Header padding={70} title="Email Campaigns" />
+            <hr />
+            <div className="uk-text-center">
+                <a href="https://julieritz.github.io/Portfolio/assets/images/Welcome-to-Washington-Fun-Facts-You-Should-Know.pdf" target="_blank" className="btn-link">
+                    <button className="uk-button uk-button-default website-btn">Email 1</button>
+                </a>
+                <a href="https://julieritz.github.io/Portfolio/assets/images/Foods-to-Try-When-You-Move-to-Washington.pdf" target="_blank" className="btn-link">
+                    <button className="uk-button uk-button-default website-btn">Email 2</button>
+                </a>
+                <a href="https://julieritz.github.io/Portfolio/assets/images/Top-Places-to-Hike-in-Washington.pdf" target="_blank" className="btn-link">
+                    <button className="uk-button uk-button-default website-btn">Email 3</button>
+                </a>
+                <a href="https://julieritz.github.io/Portfolio/assets/images/Things-to-Do-in-Washington-in-the-Winter.pdf" target="_blank" className="btn-link">
+                    <button className="uk-button uk-button-default website-btn">Email 4</button>
+                </a>
+                <a href="https://julieritz.github.io/Portfolio/assets/images/Things-to-Do-in-Washington-in-the-Spring.pdf" target="_blank" className="btn-link">
+                    <button className="uk-button uk-button-default website-btn">Email 5</button>
+                </a>
+                <a href="https://julieritz.github.io/Portfolio/assets/images/Things-to-Do-in-Washington-in-the-Summer.pdf" target="_blank" className="btn-link">
+                    <button className="uk-button uk-button-default website-btn">Email 6</button>
+                </a>
+                <a href="https://julieritz.github.io/Portfolio/assets/images/Things-to-Do-in-Washington-in-the-Fall.pdf" target="_blank" className="btn-link">
+                    <button className="uk-button uk-button-default website-btn">Email 7</button>
+                </a>
+                <a href="https://julieritz.github.io/Portfolio/assets/images/Weather-in-Washington-and-What-Youll-Need" target="_blank" className="btn-link">
+                    <button className="uk-button uk-button-default website-btn">Email 8</button>
+                </a>
+                <a href="https://julieritz.github.io/Portfolio/assets/images/A-Guide-to-Seattles-Iconic-Neighborhoods.pdf" target="_blank" className="btn-link">
+                    <button className="uk-button uk-button-default website-btn">Email 9</button>
+                </a>
+                <a href="https://julieritz.github.io/Portfolio/assets/images/Top-Things-to-Do-in-Seattle.pdf" target="_blank" className="btn-link">
+                    <button className="uk-button uk-button-default website-btn">Email 10</button>
+                </a>
+            </div>
             <Header padding={70} title="Websites & Applications" />
             <hr />
             <CardContainer>

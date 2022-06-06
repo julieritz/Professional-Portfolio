@@ -11,7 +11,6 @@ const code = [
     "MySQL",
     "Sequelize",
     "MVC",
-    "Database Theory",
     "Command Line",
     "Git/Github",
     "Heroku"
@@ -20,6 +19,10 @@ const code = [
 const marketing = [
     "Social Media",
     "Copywriting",
+    "Asana",
+    "Email Marketing",
+    "Project Management",
+    "Product Management",
     "Blogging & Vlogging",
     "Google Analytics",
     "SEO",
@@ -32,12 +35,13 @@ const marketing = [
 ];
 
 const design = [
+    "Adobe Photoshop",
     "UIKit",
     "Bootstrap",
-    "Adobe Photoshop",
     "Blender",
     "Figma",
     "Trello",
+    "Canva",
     "Responsive Web Design",
     "Web Accessibility",
     "Photography & Videography"
